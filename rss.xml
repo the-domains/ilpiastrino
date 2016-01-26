@@ -2,15 +2,16 @@
     <channel>
         <title><![CDATA[ILPIASTRINO]]></title>
         <description><![CDATA[ILPIASTRINO]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/ilpiastrino/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 26 Jan 2016 23:02:10 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 26 Jan 2016 23:03:51 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/ilpiastrino/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
-            <link>undefined83fae978-0640-44ab-9ad2-f310d929dab3/index.html</link>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/9fb8ae5e-80b2-4f02-9053-90206767964c.jpg">]]></description>
+            <link>https://thegrid.ai/ilpiastrino/83fae978-0640-44ab-9ad2-f310d929dab3/index.html</link>
             <guid isPermaLink="false">83fae978-0640-44ab-9ad2-f310d929dab3</guid>
-            <pubDate>Tue, 26 Jan 2016 23:02:10 GMT</pubDate>
+            <pubDate>Tue, 26 Jan 2016 23:03:12 GMT</pubDate>
         </item>
     </channel>
 </rss>
